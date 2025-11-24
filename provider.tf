@@ -8,7 +8,8 @@ version = "~> 5.0"
 }
 }
 }
-
+# AWS Provider configuration
 provider "aws" {
 region = var.region
 }
+
