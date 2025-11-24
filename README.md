@@ -3,7 +3,7 @@
 This project demonstrates provisioning AWS cloud infrastructure using Terraform in a production-ready way.
 It includes AWS provider configuration, variables, reusable modules, outputs, and state file management.
 
-## 🚀 Features
+## Features
 
 * AWS provider configuration
 * Modular Terraform structure
@@ -11,14 +11,14 @@ It includes AWS provider configuration, variables, reusable modules, outputs, an
 * Version-controlled deployments
 * Secure state management
 
-## 🧰 Technologies Used
+## Technologies Used
 
 * **Terraform**
 * **AWS**
 * **Git / GitHub**
 * **Infrastructure-as-Code**
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 terraform-aws-iac/
@@ -28,7 +28,7 @@ terraform-aws-iac/
   └── outputs.tf
 ```
 
-## ▶️ How to Run
+## How to Run
 
 ```
 terraform init
@@ -36,6 +36,6 @@ terraform plan
 terraform apply
 ```
 
-## 📌 Purpose
+## Purpose
 
 This project is part of my DevOps/MLOps learning path, showcasing automation and repeatable environment setup using Terraform.
